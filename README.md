@@ -30,7 +30,7 @@ Filter purchases by paid or unpaid status.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA.git
+   git clone https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT.git
    cd gestion-entreprise
 
 ## Technologies Used
@@ -53,6 +53,36 @@ Push to your fork and submit a pull request..
 
 -------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
-  <h2>Login Form</h2>
-  <img src="" alt="Login Form">
+  <h2>Product Tab</h2>
+  <img src="https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT/blob/main/Images/produit.PNG" alt="Login Form">
+</div>
+--------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <h2>Employe Tab</h2>
+  <img src="https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT/blob/main/Images/employe.PNG" alt="Login Form">
+</div>
+--------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <h2>Client Tab</h2>
+  <img src="https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT/blob/main/Images/client.PNG" alt="Login Form">
+</div>
+--------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <h2>All Purchases</h2>
+  <img src="https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT/blob/main/Images/allachat.PNG" alt="Login Form">
+</div>
+--------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <h2>Purchases Paid</h2>
+  <img src="https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT/blob/main/Images/achatpaye.PNG" alt="Login Form">
+</div>
+--------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <h2>Purchases not Paid</h2>
+  <img src="https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT/blob/main/Images/achatnop.PNG" alt="Login Form">
+</div>
+--------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <h2>You can Edit directly from table</h2>
+  <img src="https://github.com/doukkani17moha/GUI-JAVA-MANAGEMENT-BUSINESS-PROJECT/blob/main/Images/edit.PNG" alt="Login Form">
 </div>
