@@ -9,7 +9,7 @@ import java.util.List;
 
 import Model.Client;
 
-public class ClientDAO implements IGenericDAOInterface <Client> {
+public class ClientDAO {
 	private Connection connection = null;
 	private PreparedStatement s1 = null;
 

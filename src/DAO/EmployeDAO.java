@@ -9,7 +9,7 @@ import java.util.List;
 
 import Model.Employe;
 
-public class EmployeDAO implements IGenericDAOInterface <Employe> {
+public class EmployeDAO  {
     private Connection connection = null;
 	private PreparedStatement s2 = null;
 

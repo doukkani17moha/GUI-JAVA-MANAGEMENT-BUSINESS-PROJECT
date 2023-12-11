@@ -9,7 +9,7 @@ import java.util.List;
 
 import Model.Produit;
 
-public class ProduitDAO implements IGenericDAOInterface <Produit> {
+public class ProduitDAO  {
 	private Connection connection = null;
 	private PreparedStatement s1 = null;
 
